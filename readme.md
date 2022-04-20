@@ -1,3 +1,5 @@
+This project will be archived for the benefit of https://github.com/cozy/cozy-libs/blob/master/packages/cozy-logger/
+
 # minilog
 
 Lightweight client & server-side logging with Stream-API backends
